@@ -11,3 +11,6 @@ del king.bat
 ```
 ### 3.When “WinRAR Crack Success!” is displayed, all is complete.
 ### 4.Open WinRAR and verify that the license has been applied!
+
+# Precautions
+⚠ WinRAR must be installed in the default installation folder.
